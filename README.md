@@ -23,10 +23,3 @@ O Atalho GPT é um UserScript desenvolvido para adicionar um botão de atalho ao
 1. **Instale uma Extensão de UserScript:** Você precisará de uma extensão de navegador que suporte UserScripts, como [Tampermonkey](https://www.tampermonkey.net/) ou [Greasemonkey](https://www.greasespot.net/).
 2. **Adicione o Script:** Após instalar a extensão, crie um novo script e copie o código do Atalho GPT para o editor.
 3. **Salve e Ative:** Salve o script e ative-o na extensão para começar a usar o botão de atalho.
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Espero que este README atenda às suas expectativas! Você pode colar este conteúdo no arquivo `README.md` do seu repositório.
