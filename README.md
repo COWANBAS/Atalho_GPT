@@ -18,7 +18,7 @@ O Atalho GPT é um UserScript desenvolvido para adicionar um botão de atalho ao
 - **Produtividade:** Ideal para profissionais que utilizam o Chat GPT em suas rotinas diárias, aumentando a eficiência do trabalho.
 - **Simplicidade:** Usuários de todos os níveis podem se beneficiar da simplicidade e praticidade oferecidas pelo Atalho GPT.
 
-## 📦 Instalação
+## Instalação
 
 1. **Instale uma Extensão de UserScript:** Você precisará de uma extensão de navegador que suporte UserScripts, como [Tampermonkey](https://www.tampermonkey.net/) ou [Greasemonkey](https://www.greasespot.net/).
 2. **Adicione o Script:** Após instalar a extensão, crie um novo script e copie o código do Atalho GPT para o editor.
