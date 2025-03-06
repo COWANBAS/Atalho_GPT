@@ -3,7 +3,7 @@
 // @description   Um atalho para o ChatGPT
 // @namespace     CowanGPT
 // @license       CowBas
-// @version       1.0
+// @version       2.0
 // @author        Cowanbas
 // @match         *://*/*
 // @run-at        document-start
@@ -11,7 +11,6 @@
 (function() {
     'use strict';
 
-    // Cria o botão
     var button = document.createElement('button');
     button.style.position = 'fixed';
     button.style.bottom = '15px';
@@ -38,7 +37,11 @@
     button.appendChild(icon);
 
     button.onclick = function() {
-        window.open('https://chat.openai.com/', '_blank');
+        var width = 500;
+        var height = 500;
+        var left = window.screenX + button.getBoundingClientRect().left;
+        var top = window.screenY + button.getBoundingClientRect().top;
+        window.open('https://chat.openai.com/', 'Chat GPT', `width=${width},height=${height},top=${top},left=${left}`);
     };
 
     document.body.appendChild(button);
