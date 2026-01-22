@@ -2,7 +2,7 @@
 // @name          Atalho GPT
 // @description   Um atalho para o ChatGPT
 // @namespace     CowanGPT
-// @license       CowBas
+// @license       GPL-3.0
 // @version       2.0
 // @author        Cowanbas
 // @match         *://*/*
@@ -55,3 +55,4 @@
         button.style.opacity = '0.7';
     };
 })();
+
